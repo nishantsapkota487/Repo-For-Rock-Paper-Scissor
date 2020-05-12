@@ -1,0 +1,64 @@
+body{
+  background-color: #304f80;
+}
+
+.player{
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 260px;
+}
+
+.computer{
+  color: white;
+  position: absolute;
+  top:20px;
+  left: 790px;
+}
+
+#playerScore{
+  color: white;
+  position: absolute;
+  top: 70px;
+  left: 300px;
+}
+
+#computerScore{
+  color: white;
+  position: absolute;
+  top:70px;
+  left: 870px;
+}
+
+#result{
+  position: absolute;
+  top: 200px;
+  left:500px;
+  color: white;
+}
+
+#playerImage{
+  position: absolute;
+  top: 300px;
+  left:170px;
+  border: 0px;
+
+}
+
+#computerImage{
+  position:absolute;
+  top:280px;
+  left:800px;
+  margin: 0px;
+
+}
+
+.images{
+  background-color: #304f80;
+}
+
+.buttons{
+  position: absolute;
+  top: 550px;
+  left: 430px;
+}
